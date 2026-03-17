@@ -1,6 +1,7 @@
 This is a ncurses menu program it is controlled by alt tab to switch columns and scales to window
 size. Page up and Page down work as expected. Tab is auto complete. I wrote this read me as quick
 as possible. Later it will be updated.
+Also mouse control double click selects enter completes.
 
 Example:
 seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3
