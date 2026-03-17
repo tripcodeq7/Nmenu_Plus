@@ -29,7 +29,7 @@ seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3<br>
 3 | c<br><br>
 -c1 I think this is to disable the formatting<br>
 <br>
-![nmenu_plus](nmenu_plus.png)
+<img src="nmenu_plus.png" alt="nmenu_plus">
 <br>
 <hr>
 These are from the anyascii project and are subject to their license.<br>
