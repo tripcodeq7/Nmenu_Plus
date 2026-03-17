@@ -21,7 +21,7 @@ seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3<br>
 1<br>
 2<br>
 3<br>
-./nmenu -c 1 2 3 -c a b c
+./nmenu -c 1 2 3 -c a b c<br>
 1 | a<br>
 2 | b<br>
 3 | c<br>
