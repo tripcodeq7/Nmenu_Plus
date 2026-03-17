@@ -20,3 +20,5 @@ seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3
 2
 3
 -c1 I think this is to disable the formatting
+
+![nmenu_plus](nmenu_plus.png)
