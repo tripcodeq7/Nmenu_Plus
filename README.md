@@ -6,7 +6,7 @@ Also mouse control double click selects enter completes.
 <br>
 Example:<br>
 seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3<br>
-
+<hr>
 -t: changes the title<br>
 -p: enables pipe input<br>
 -preserve: preserves the pipe column while tabbing around<br>
@@ -24,7 +24,7 @@ seq 1 2000 | ./nmenu -p -c a b c -c 1 2 3<br>
 ./nmenu -c 1 2 3 -c a b c<br>
 1 | a<br>
 2 | b<br>
-3 | c<br>
+3 | c<br><br>
 -c1 I think this is to disable the formatting<br>
 
 ![nmenu_plus](nmenu_plus.png)
